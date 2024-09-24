@@ -4,9 +4,7 @@ class Solution {
         sort(nums);
         for (int i = 0; i < nums.length - k + 1; i++) {
             int currentDiff = Math.abs(nums[i] - nums[i + k - 1]);
-            System.out.println("first number: " + nums[i]);
-            System.out.println("second number: " + nums[i + k - 1]);
-            System.out.println("current diff: " + currentDiff);
+            
             if (i == 0){
                 minDiff = currentDiff;
             }
