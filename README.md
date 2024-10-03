@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/demccusker/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/demccusker/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0782-jewels-and-stones](https://github.com/demccusker/leetcode/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/demccusker/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/demccusker/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/demccusker/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/demccusker/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0782-jewels-and-stones](https://github.com/demccusker/leetcode/tree/master/0782-jewels-and-stones) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
