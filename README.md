@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/demccusker/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/demccusker/leetcode/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/demccusker/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/demccusker/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/demccusker/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/demccusker/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/demccusker/leetcode/tree/master/0605-can-place-flowers) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/demccusker/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/demccusker/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
