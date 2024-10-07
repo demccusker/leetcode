@@ -6,11 +6,7 @@ class Solution {
         for (int i = 0; i < indices.length; i++) {
             newStringArray[indices[i]] = charArray[i];
         }
-        String newString = "";
-        for (char letter : newStringArray) {
-            newString = newString + letter;
-        }
-
+        String newString = String.valueOf(newStringArray);
         return newString;
     }
 }
