@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/demccusker/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/demccusker/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/demccusker/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/demccusker/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/demccusker/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/demccusker/leetcode/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/demccusker/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
