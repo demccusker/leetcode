@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/demccusker/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/demccusker/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/demccusker/leetcode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/demccusker/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/demccusker/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/demccusker/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/demccusker/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/demccusker/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/demccusker/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/demccusker/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/demccusker/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/demccusker/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/demccusker/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/demccusker/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
