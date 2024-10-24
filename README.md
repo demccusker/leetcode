@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/demccusker/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/demccusker/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/demccusker/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/demccusker/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/demccusker/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/demccusker/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/demccusker/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/demccusker/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/demccusker/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/demccusker/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Binary Search
 |  |
 | ------- |
