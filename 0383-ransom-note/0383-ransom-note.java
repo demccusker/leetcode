@@ -1,6 +1,10 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
+
         boolean canConstruct = true;
+        if (ransomNote.length() > magazine.length()) {
+            return false;
+        }
         Map<Character, Integer> noteCounts = new HashMap<>();
         Map<Character, Integer> magazineCounts = new HashMap<>();
         for (int i = 0; i < ransomNote.length(); i++){
