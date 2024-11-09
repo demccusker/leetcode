@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/demccusker/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/demccusker/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/demccusker/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/demccusker/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/demccusker/leetcode/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/demccusker/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/demccusker/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/demccusker/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/demccusker/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/demccusker/leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/demccusker/leetcode/tree/master/0782-jewels-and-stones) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/demccusker/leetcode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/demccusker/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/demccusker/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/demccusker/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
