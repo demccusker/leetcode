@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/demccusker/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/demccusker/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/demccusker/leetcode/tree/master/1391-counting-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/demccusker/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/demccusker/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/demccusker/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/demccusker/leetcode/tree/master/1651-shuffle-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/demccusker/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/demccusker/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/demccusker/leetcode/tree/master/1391-counting-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/demccusker/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/demccusker/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/demccusker/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/demccusker/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/demccusker/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
