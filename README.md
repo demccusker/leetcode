@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/demccusker/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/demccusker/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/demccusker/leetcode/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/demccusker/leetcode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/demccusker/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/demccusker/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/demccusker/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/demccusker/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/demccusker/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/demccusker/leetcode/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/demccusker/leetcode/tree/master/0525-contiguous-array) |
 | [0782-jewels-and-stones](https://github.com/demccusker/leetcode/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/demccusker/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/demccusker/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/demccusker/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/demccusker/leetcode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/demccusker/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/demccusker/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/demccusker/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
