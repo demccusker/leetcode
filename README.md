@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/demccusker/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/demccusker/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/demccusker/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2428-equal-row-and-column-pairs](https://github.com/demccusker/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/demccusker/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2428-equal-row-and-column-pairs](https://github.com/demccusker/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-counting-elements](https://github.com/demccusker/leetcode/tree/master/1391-counting-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/demccusker/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2428-equal-row-and-column-pairs](https://github.com/demccusker/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/demccusker/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0908-middle-of-the-linked-list](https://github.com/demccusker/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/demccusker/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
