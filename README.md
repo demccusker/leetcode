@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/demccusker/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/demccusker/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/demccusker/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2211-k-radius-subarray-averages](https://github.com/demccusker/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2428-equal-row-and-column-pairs](https://github.com/demccusker/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/demccusker/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/demccusker/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2211-k-radius-subarray-averages](https://github.com/demccusker/leetcode/tree/master/2211-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
