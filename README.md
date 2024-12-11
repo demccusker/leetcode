@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/demccusker/leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/demccusker/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/demccusker/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2634-minimum-common-value](https://github.com/demccusker/leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/demccusker/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/demccusker/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2428-equal-row-and-column-pairs](https://github.com/demccusker/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2634-minimum-common-value](https://github.com/demccusker/leetcode/tree/master/2634-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/demccusker/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2428-equal-row-and-column-pairs](https://github.com/demccusker/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2634-minimum-common-value](https://github.com/demccusker/leetcode/tree/master/2634-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/demccusker/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/demccusker/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2634-minimum-common-value](https://github.com/demccusker/leetcode/tree/master/2634-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
