@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/demccusker/leetcode/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/demccusker/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/demccusker/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/demccusker/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/demccusker/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -178,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/demccusker/leetcode/tree/master/1666-make-the-string-great) |
+| [2470-removing-stars-from-a-string](https://github.com/demccusker/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
