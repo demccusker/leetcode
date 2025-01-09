@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/demccusker/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/demccusker/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/demccusker/leetcode/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/demccusker/leetcode/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/demccusker/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/demccusker/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Array
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/demccusker/leetcode/tree/master/0112-path-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/demccusker/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [1666-make-the-string-great](https://github.com/demccusker/leetcode/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
